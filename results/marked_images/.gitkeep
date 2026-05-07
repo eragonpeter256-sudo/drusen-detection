@@ -1,0 +1,3 @@
+# Placeholder to ensure this directory is tracked in git.
+# Marked output images (images with detected drusen highlighted) will be saved here by the pipeline.
+# Example output: results/marked_images/marked_drusen_001.jpg

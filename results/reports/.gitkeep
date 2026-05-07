@@ -1,0 +1,3 @@
+# Placeholder to ensure this directory is tracked in git.
+# Evaluation reports (JSON/CSV) will be saved here by the pipeline.
+# Example output: results/reports/evaluation_report.json
